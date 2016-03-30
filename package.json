@@ -1,0 +1,30 @@
+{
+  "name": "vector-village",
+  "version": "1.0.0",
+  "description": "a playground for unruining vectors",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-grunticon": "^2.2.2",
+    "grunt-svgmin": "^3.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radrice/vectorVillage.git"
+  },
+  "keywords": [
+    "vectors",
+    "svg",
+    "png"
+  ],
+  "author": "radrice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radrice/vectorVillage/issues"
+  },
+  "homepage": "https://github.com/radrice/vectorVillage#readme"
+}
